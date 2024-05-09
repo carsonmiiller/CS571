@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+  background-color: cornflowerblue;
+  border: darkgrey;
+  padding: 0cqi;
+}
+
+.secondary-button {
+  background-color: whitesmoke;
+  border: black;
+  padding: 0ch;
+}

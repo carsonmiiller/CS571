@@ -1,0 +1,12 @@
+{
+    "name":{
+        "first":"Carson",
+        "last":"Miller"
+    },
+    "fromWisconsin":false,
+    "numCredits":13,
+    "major":"Electrical Engineering and Computer Science",
+    "interests":[
+        "sports","blogging","programming","cooking"
+    ]
+}
